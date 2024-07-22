@@ -29,5 +29,4 @@ window.onload = function() {
     ".";
   let item = document.getElementById("excuse");
   item.innerHTML = stringExcusa;
-  console.log();
 };
